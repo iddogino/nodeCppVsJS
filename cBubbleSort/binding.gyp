@@ -2,7 +2,7 @@
   "targets": [
     {
       "target_name": "cBubbleSort",
-      "sources": [ "src/cBubbleSort.cc" ]
+      "sources": [ "cBubbleSort.cc" ]
     }
   ]
 }
